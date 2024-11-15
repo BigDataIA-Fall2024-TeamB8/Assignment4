@@ -105,6 +105,5 @@ docker-compose up -d
 FastAPI and Streamlit will be accessible on the following ports:
 
 FastAPI: http://localhost:8000
-Streamlit: http://localhost:8501
-Accessing the Application
-Airflow: http://localhost:8080
+Streamlit: 
+
