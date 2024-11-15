@@ -3,14 +3,8 @@ End-to-end research tool using an Airflow pipeline to process documents, store a
 
 # Video Demo of Streamlit UI
 Link: []
-
-
-# EC2 Instance Links
-
 Streamlit: []
-
 FastAPI: [http://34.229.200.208:8000/docs]
-
 Airflow: [http://34.229.200.208:8080/]
 
 # Codelabs: []
@@ -105,5 +99,4 @@ docker-compose up -d
 FastAPI and Streamlit will be accessible on the following ports:
 
 FastAPI: http://localhost:8000
-Streamlit: 
 
