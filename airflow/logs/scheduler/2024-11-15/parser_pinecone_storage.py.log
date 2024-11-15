@@ -1,0 +1,10 @@
+[2024-11-15T06:34:39.291+0000] {processor.py:186} INFO - Started process (PID=66421) to work on /opt/airflow/dags/parser_pinecone_storage.py
+[2024-11-15T06:34:39.292+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parser_pinecone_storage.py for tasks to queue
+[2024-11-15T06:34:39.294+0000] {logging_mixin.py:190} INFO - [2024-11-15T06:34:39.294+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/parser_pinecone_storage.py
+[2024-11-15T06:34:43.012+0000] {logging_mixin.py:190} INFO - [2024-11-15T06:34:43.012+0000] {discover_namespace_packages.py:12} INFO - Discovering subpackages in _NamespacePath(['/usr/local/lib/python3.12/site-packages/pinecone_plugins'])
+[2024-11-15T06:34:43.013+0000] {logging_mixin.py:190} INFO - [2024-11-15T06:34:43.013+0000] {discover_plugins.py:9} INFO - Looking for plugins in pinecone_plugins.inference
+[2024-11-15T06:34:43.019+0000] {logging_mixin.py:190} INFO - [2024-11-15T06:34:43.019+0000] {installation.py:10} INFO - Installing plugin inference into Pinecone
+[2024-11-15T06:34:43.499+0000] {processor.py:925} INFO - DAG(s) 'docling_pipeline_detailed' retrieved from /opt/airflow/dags/parser_pinecone_storage.py
+[2024-11-15T06:34:43.527+0000] {logging_mixin.py:190} INFO - [2024-11-15T06:34:43.527+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-15T06:34:43.545+0000] {logging_mixin.py:190} INFO - [2024-11-15T06:34:43.545+0000] {dag.py:4180} INFO - Setting next_dagrun for docling_pipeline_detailed to None, run_after=None
+[2024-11-15T06:34:43.566+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parser_pinecone_storage.py took 4.280 seconds

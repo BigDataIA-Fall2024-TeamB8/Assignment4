@@ -1,0 +1,11 @@
+apache-airflow-providers-amazon
+apache-airflow-providers-postgres
+apache-airflow-providers-celery
+apache-airflow-providers-redis
+pinecone-client
+boto3
+docling
+langchain
+langchain_openai
+openai
+requests
