@@ -1,8 +1,5 @@
 # Assignment4
 End-to-end research tool using an Airflow pipeline to process documents, store and search vectors, and create a multi-agent research interface.
-
-# Video Demo of Streamlit UI
-Streamlit: []
 FastAPI: [http://34.229.200.208:8000/docs]
 Airflow: [http://34.229.200.208:8080/]
 
